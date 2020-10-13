@@ -30,3 +30,7 @@ npm run codeceptjs:ui
 ```
 
 More information at 👉 https://codecept.io
+
+---
+
+Link to presentation recording at 👉 [automateIT](https://youtu.be/2ys4wRxOoFw) channel.
